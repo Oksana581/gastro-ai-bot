@@ -1,5 +1,0 @@
-python-dotenv
-google-generativeai
-python-telegram-bot==13.15
-aiohttp
-beautifulsoup4
