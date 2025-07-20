@@ -3,7 +3,7 @@ import asyncio
 from config import settings
 from ai.content_generator import generate_post
 from scraping.website_scraper import scrape_all_sites
-from telegram.telegram_sender import send_post_to_telegram
+from tg_bot.telegram_sender import send_post_to_telegram
 
 
 async def main():
