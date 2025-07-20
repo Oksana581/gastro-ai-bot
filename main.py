@@ -1,4 +1,4 @@
-
+```python
 
 # main.py
 import asyncio
