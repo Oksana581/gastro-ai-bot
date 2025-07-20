@@ -1,5 +1,3 @@
-
-```python
 # main.py
 import asyncio
 from config import settings
